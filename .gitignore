@@ -1,0 +1,8 @@
+package-lock.json
+node_modules/
+npm-debug.log
+.vscode/
+config/cert/
+.env
+tracker_configuration.json
+serviceAccountKey.json
